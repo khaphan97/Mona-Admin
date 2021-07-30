@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mona-Admin/static/css/main.ef950bc4.chunk.css",
+    "main.js": "/Mona-Admin/static/js/main.f46d8d53.chunk.js",
+    "main.js.map": "/Mona-Admin/static/js/main.f46d8d53.chunk.js.map",
+    "runtime-main.js": "/Mona-Admin/static/js/runtime-main.f6805588.js",
+    "runtime-main.js.map": "/Mona-Admin/static/js/runtime-main.f6805588.js.map",
+    "static/css/2.3519513f.chunk.css": "/Mona-Admin/static/css/2.3519513f.chunk.css",
+    "static/js/2.3eef57c4.chunk.js": "/Mona-Admin/static/js/2.3eef57c4.chunk.js",
+    "static/js/2.3eef57c4.chunk.js.map": "/Mona-Admin/static/js/2.3eef57c4.chunk.js.map",
+    "index.html": "/Mona-Admin/index.html",
+    "static/css/2.3519513f.chunk.css.map": "/Mona-Admin/static/css/2.3519513f.chunk.css.map",
+    "static/css/main.ef950bc4.chunk.css.map": "/Mona-Admin/static/css/main.ef950bc4.chunk.css.map",
+    "static/js/2.3eef57c4.chunk.js.LICENSE.txt": "/Mona-Admin/static/js/2.3eef57c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6805588.js",
+    "static/css/2.3519513f.chunk.css",
+    "static/js/2.3eef57c4.chunk.js",
+    "static/css/main.ef950bc4.chunk.css",
+    "static/js/main.f46d8d53.chunk.js"
+  ]
+}
